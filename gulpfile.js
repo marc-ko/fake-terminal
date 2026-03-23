@@ -13,7 +13,6 @@ var _ = require('lodash'),
     exec = require('gulp-exec'),
     gutil = require('gulp-util'),
     eslint = require('gulp-eslint'),
-    minifyCss = require('gulp-minify-css'),
     mocha = require('gulp-mocha'),
     plumber = require('gulp-plumber'),
     refresh = require('gulp-livereload'),
@@ -149,7 +148,6 @@ gulp.task('css', function () {
     .pipe(concat('zsh.css'))
     .pipe(gulp.dest(path.build))
     .pipe(rename('zsh.min.css'))
-    .pipe(minifyCss())
     .pipe(gulp.dest(path.build))
     .pipe(refresh(server));
 });

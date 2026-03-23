@@ -1,25 +1,54 @@
-<script src="../dist/zsh.min.js"></script>
+<!DOCTYPE html>
+<html lang="en">
 
-<template>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>zsh.js terminal demo</title>
   <style>
-    @import '../dist/zsh.min.css';
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+    }
+
+    zsh-terminal {
+      display: block;
+      height: 100%;
+    }
   </style>
-</template>
+  <script src="./dist/zsh.min.js"></script>
+</head>
 
-<script>
-  var Terminal = Object.create(HTMLElement.prototype);
-  var template = document._currentScript.ownerDocument.querySelector('template');
+<body>
+  <zsh-terminal></zsh-terminal>
 
-  Terminal.createdCallback = function() {
-    var root = this.createShadowRoot();
-    root.appendChild(document.importNode(template.content, true));
+  <template id="zsh-template">
+    <style>
+      @import './dist/zsh.min.css';
+    </style>
+  </template>
 
-    var placeholder = document.createElement('div');
-    ZSH.create(placeholder);
-    root.appendChild(placeholder.firstChild);
-  };
+  <script>
+    var template = document.querySelector('#zsh-template');
 
-  document.registerElement('zsh-terminal', {
-    prototype: Terminal
-  });
-</script>
+    class ZshTerminalElement extends HTMLElement {
+      connectedCallback() {
+        if (this.shadowRoot) {
+          return;
+        }
+
+        var root = this.attachShadow({ mode: 'open' });
+        root.appendChild(document.importNode(template.content, true));
+
+        var placeholder = document.createElement('div');
+        new ZSH(placeholder, null, true);
+        root.appendChild(placeholder.firstChild);
+      }
+    }
+
+    customElements.define('zsh-terminal', ZshTerminalElement);
+  </script>
+</body>
+
+</html>
