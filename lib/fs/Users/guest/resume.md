@@ -1,82 +1,74 @@
-# Tadeu Zagallo da Silva
+# KO, (Marco) Ka Chun
 ---
 
 ## Profile
---- 
-  I am passionate for all kinds of development, love to learn new languages and paradigms, always ready for a good challenge.
-  I also like Math, Game development and when possible contribute to open source projects.
+---
+Software engineer focused on full-stack web development, embedded systems for robotics, and product-oriented delivery. Bachelor’s candidate in Computer Engineering at HKUST; experienced in SaaS delivery, e-learning platforms, and STM32-based control systems.
 
 ## General Information
 ---
-  * Email: tadeuzagallo@gmail.com
-  * Phone: +55 32 8863 3684
-  * Skype: tadeuzagallo
-  * Github: github.com/tadeuzagallo
-  * Location: Juiz de Fora/MG, Brazil
+  * Email: me@marcoko.com
+  * Website: marcoko.com
+  * GitHub: github.com/marc-ko
+  * LinkedIn: linkedin.com/in/marcoko
+  * Location: Hong Kong
 
-## Educational Background
+## Education
 ---
 
-  * Web Development at Instituto Vianna Junior, 2010
-  * General English at The Carlyle Institute, 2011
+  * **The Hong Kong University of Science and Technology (HKUST)** — *09.2022 – Present*
+    - Bachelor’s Degree in Computer Engineering (estimated completion *06.2026*)
 
-# Work Experience
+## Work Experience
 ---
 
-  * <i>*iOS Developer*</i> at <i>*Qranio*</i> from <i>*December, 2013*</i> and <i>*currently employed*</i>
-    - Qranio is a startup that grew inside the company I work (eMiolo.com) and I was invited to lead the iOS development team
-      on a completely rewriten version of the app
+  * <i>*Junior Web Developer (Full-Time)*</i> at <i>*C Kent Group*</i> — <i>*05.2022 – Present*</i>
+    - Developed and revamped multiple SaaS platforms for customers, improving user experience and business outcomes through web development and collaboration.
+    - Collaborated on an E-Learning Platform for schools, improving accessibility and engagement using full-stack development and UX design.
+    - Implemented a task/to-do system aligned with a new internal scheduling workflow to streamline communication and productivity.
+    - Delivered under pressure with strong communication, supporting successful delivery and positive client relationships.
 
-  * <i>*Web and Mobile Developer*</i> at <i>*Bonuz*</i> from <i>*February, 2013*</i> and <i>*currently employed*</i>
-    - I started developing the iOS app as a freelancer, after the app was published I was invited to maintain the Ruby on Rails
-      api and work on the Android version of the app
+  * <i>*Software Engineer (Hybrid)*</i> at <i>*HKUST Robotics Team*</i> — <i>*12.2023 – Present*</i>
+    - Designed and implemented embedded control systems using STM32 microcontrollers, optimizing for real-time performance and resource use.
+    - Built drivers and middleware to integrate sensors and actuators with the robotic control platform for reliable operation.
+    - Debugged and optimized embedded software to improve performance and reliability of robotic systems.
 
-  * <i>*Web and Mobile Developer*</i> at <i>*eMiolo.com*</i> from <i>*April, 2013*</i> and <i>*currently employed*</i>
-    - The company just worked with PHP, so I joined with the intention of bringing new technologies. Worked with Python, Ruby, iOS,
-      Android and HTML5 applications
+## Projects & Achievements
+---
 
-  * <i>*iOS Developer*</i> at <i>*ProDoctor Software Ltda.*</i> from <i>*July, 2012*</i> until <i>*October, 2012*</i>
-    - Briefly worked with the iOS team on the development of their first mobile version of their main product, a medical software
+  * <i>*Kubuqi Desert Sustainable Development Proposal Competition*</i> — <i>*HopeGrove*</i> (Project Engineer) — <i>*11.2023 – 04.2024*</i>
+    - Reached finalists; secured an award of $5,000 HKD.
+    - Team of four; contributed 3D animation and video production.
+    - Proposal on using NFT technology for a distinctive local tourism experience in the Kubuqi Desert.
 
-  * <i>*Web Developer*</i> at <i>*Ato Interativo*</i> from <i>*February, 2012*</i> until <i>*July, 2012*</i>
-    - Most of the work was with PHP and MySQL, also working with JavaScript on the client side. Worked with MSSQL
-      and Oracle databases as well
+  * <i>*NFT Environmental Conservation Project*</i> — <i>*HopeCanvas*</i> (Project Executor) — <i>*11.2023 – Present*</i> (est. *12.2024*)
+    - Subsidy of $5,900 HKD from Hsin Chong – K.N. Godfrey Yeh Education Fund.
+    - Team of seven: beach clean-ups, tree planting, workshops, and an NFT creation platform with artists.
+    - Comprehensive proposal for the Education Fund application.
 
-  * <i>*Web Developer*</i> at <i>*Maria Fumaça Criações*</i> from <i>*October, 2010*</i> until <i>*June, 2011*</i>
-    - I worked mostly with PHP and MySQL, also making the front end with HTML and CSS and most animations in JavaScript,
-      although I also worked with a few in AS3. Briefly worked with MongoDB
+## Relatable Experience
+---
+
+  * <i>*Freelance Builder*</i> — <i>*Company Catalog Designing*</i> — <i>*02.2021 – 03.2021*</i>
+    - Designed a company product catalog using Canva.
+
+  * <i>*Part-Time Developer*</i> — <i>*hkflagday.com mobile application*</i> — <i>*09.2019*</i>
+    - Built with Flutter and PHP to deliver a tractable flag-bags network on a tight timeline (under two days).
+
+## Technical Skills
+---
+
+*Languages (human):* English (Fluent), Cantonese (Native), Mandarin (Fluent), Japanese (Basic)
+
+*Content creation:* Canva (Proficient); Adobe Premiere, Photoshop, Lightroom (Intermediate); Midjourney & Stable Diffusion (Intermediate)
+
+*Data & office:* Word, Spreadsheets (Intermediate); SQL
+
+*Web & backend:* HTML, JavaScript, PHP (backend), Spring Boot, Tomcat, Java Servlet (beginner)
+
+*Programming:* Dart (Flutter), PHP, JavaScript, TypeScript, Kotlin, Solidity, Python, C#, C++11, C (embedded)
 
 ## Additional Information
 ---
 
-* Experience under Linux and OS X environment
-* Student Exchange: 6 months of residence in Ireland
-
-## Languages
----
-
-* Portuguese – Native Speaker
-* English – Fluent Level
-* Spanish – Intermediate Level
-
-## Programming languages (ordered by knowledge)
----
-
-* JavaScript
-* Objective­C
-* C/C++
-* Ruby on Rails
-* NodeJS
-* PHP
-* Java
-* Python
-
-## Additional skills
----
-
-* HTML5/CSS3
-* MVC
-* Design Patterns
-* TDD/BDD
-* Git
-* Analysis and Design of Algorithms
+* Proposals and proof documents for competitions and grants available upon request for verification.

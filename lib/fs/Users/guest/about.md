@@ -1,15 +1,15 @@
 # About me
 
-I'm a Software Engineer, currently working at Facebook, in the React Native
-Performance team.  When I'm not working I like to learn about and play with
-Compilers and Low Level Programming.
+I'm **Marco Ka Chun Ko**, a Computer Engineering undergraduate at **HKUST** (class of 2026). I work as a **Junior Web Developer** at C Kent Group and contribute as a **Software Engineer** on the HKUST Robotics Team, where I build embedded control software on STM32 for real-time robotic systems.
+
+Day to day I care about shipping usable web products—SaaS revamps, e-learning, and internal tools that keep teams aligned—while on the robotics side I enjoy drivers, middleware, and squeezing performance out of constrained hardware.
+
 ---
 
 # About this website
 
-I wanted something more than a boring portfolio, so I thought it'd be cool to
-write a copy of my terminal setup in JavaScript. The bits of it that I managed
-to implement look exactly like what I'm using on my development machine.
+I wanted something more than a boring portfolio, so I built a **browser-side terminal** that mirrors a real shell workflow. The parts that are implemented should feel close to what I use on my own machine.
+
 ---
 
 # Commands
@@ -35,4 +35,4 @@ The following commands are available:
 ---
 
 I hope you have as much fun playing with the terminal as I had building it :)
-- @tadeuzagallo
+- @marc-ko / me@marcoko.com
