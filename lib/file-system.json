@@ -97,15 +97,15 @@
               "type": "f"
             },
             "l.js": {
-              "mtime": "2026-03-23T08:12:13.662Z",
-              "ctime": "2026-03-23T08:12:13.662Z",
-              "content": "",
+              "mtime": "2026-03-28T05:50:33.270Z",
+              "ctime": "2026-03-28T05:50:33.270Z",
+              "content": "import CommandManager from 'zsh.js/command-manager';\n\nexport default function (args, stdin, stdout, stderr, next) {\n  CommandManager.exec('ls', '-l ' + args.raw, stdin, stdout, stderr, next);\n}\n",
               "type": "f"
             },
             "la.js": {
-              "mtime": "2026-03-23T08:12:19.325Z",
-              "ctime": "2026-03-23T08:12:19.325Z",
-              "content": "",
+              "mtime": "2026-03-28T05:50:33.411Z",
+              "ctime": "2026-03-28T05:50:33.411Z",
+              "content": "import CommandManager from 'zsh.js/command-manager';\n\nexport default function (args, stdin, stdout, stderr, next) {\n  CommandManager.exec('ls', '-al ' + args.raw, stdin, stdout, stderr, next);\n}\n",
               "type": "f"
             },
             "ll.js": {
